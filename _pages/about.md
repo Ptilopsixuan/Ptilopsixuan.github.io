@@ -9,25 +9,13 @@ redirect_from:
 
 ## About me
 
----
-
 I am a master's student in Civil Engineering at Tongji University, working in the Department of Disaster Mitigation for Structures. My academic interests center on resilient structural systems, seismic response analysis and digital tools for interpreting structural performance.
 
 My current research focuses on a lean low-prestressed self-centering brace that combines a unidirectional ratchet mechanism with a low-prestressed disc spring assembly. I am also interested in 3D-printing, computational simulation, visualization, and data-driven support for structural monitoring and maintenance.
 
 Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.edu.cn](mailto:2430748@tongji.edu.cn)
 
-## Research interests
-
-- Seismic resilience and disaster mitigation for structures
-- Self-centering braces and energy-dissipation systems
-- Structural dynamics, finite element modeling, and OpenSees simulation
-- Digital twin visualization for building-cluster
-- Facade degradation monitoring and maintenance data organization
-
 ## Education
-
----
 
 ### Tongji University (09/2024 - 07/2027 expected), Shanghai, China
 
@@ -48,8 +36,6 @@ Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.e
 
 ## Selected academic projects
 
----
-
 ### Development and Testing of a Lean Low-Prestressed Self-Centering Brace
 
 - Supervisor: Prof. Ying Zhou, Department of Disaster Mitigation for Structures, College of Civil Engineering, Tongji University
@@ -64,19 +50,15 @@ Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.e
 
 ### Field Data Collection Support for Facade Degradation and Maintenance Monitoring
 
-Supervisor: Prof. Wensheng Lu, Department of Disaster Mitigation for Structures, College of Civil Engineering, Tongji University
+- Supervisor: Prof. Wensheng Lu, Department of Disaster Mitigation for Structures, College of Civil Engineering, Tongji University
 
-Participated in campus field surveys of facade conditions, recording abnormal states such as discoloration, cracking, detachment, and post-maintenance conditions. Supported dataset organization for subsequent monitoring and evaluation of facade deterioration and repair performance.
+- Participated in campus field surveys of facade conditions, recording abnormal states such as discoloration, cracking, detachment, and post-maintenance conditions. Supported dataset organization for subsequent monitoring and evaluation of facade deterioration and repair performance.
 
 ## Publication
-
----
 
 - [1] Liu Z, Xiao Y, Zhou Y. Lean Low-Prestressed Self-Centering Brace: Mechanism, Experiments, and Simulation[J]. Journal of Structural Engineering, (Under review).
 
 ## Skills
-
----
 
 - Languages: Mandarin Chinese (native), English (CET-6; able to communicate in academic settings)
 - Programming: Python, C#, MATLAB, Tcl/OpenSees
