@@ -104,8 +104,9 @@ $(document).ready(function () {
 
   // Enable the sticky footer
   var bumpIt = function () {
+    var $footer = $(".page__footer");
     $("body").css("padding-bottom", "0");
-    $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
+    $("body").css("margin-bottom", $footer.length ? $footer.outerHeight(true) : 0);
   }
   $(window).resize(function () {
     didResize = true;
