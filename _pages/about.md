@@ -53,6 +53,6 @@ Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.e
 
 ## Skills
 
-- Languages: Mandarin Chinese (native), English (CET-6; able to communicate in academic settings)
+- Languages: Chinese (native), English (CET-6; able to communicate in academic settings)
 - Programming: Python, C#, MATLAB, Tcl/OpenSees
 - Engineering software: AutoCAD, Abaqus, SolidWorks, Revit
