@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master's student in Civil Engineering at Tongji University, working in the Department of Disaster Mitigation for Structures. My academic interests center on resilient structural systems, seismic response analysis and digital tools for interpreting structural performance.
 
-My current research focuses on a lean low-prestressed self-centering brace that combines a unidirectional ratchet mechanism with a low-prestressed disc spring assembly. I am also interested in 3D-printing, computational simulation, visualization, and data-driven support for structural monitoring and maintenance.
+My current research focuses on a Buckling-Free Low-Prestressed Self-Centering Brace that combines a unidirectional ratchet mechanism with a low-prestressed disc spring assembly. I am also interested in 3D-printing, computational simulation, visualization, and structural health monitoring and maintenance.
 
 Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.edu.cn](mailto:2430748@tongji.edu.cn)
 
@@ -29,15 +29,13 @@ Email: [wenxuansh.n@gmail.com](mailto:wenxuansh.n@gmail.com) / [2430748@tongji.e
 - Relevant coursework: Structural Mechanics, Seismic Design of Building Structures, Reinforced Concrete Structures, Steel Structures, Information Technology in Civil Engineering
 - Honors:
   - First-Class Scholarship, Tongji University, 2020-2021 Academic Year
-  - Second-Class Scholarship, Tongji University, 2021-2022 Academic Year
-  - Second-Class Scholarship, Tongji University, 2022-2023 Academic Year
 
 ## Selected academic projects
 
-### Development and Testing of a Lean Low-Prestressed Self-Centering Brace
+### Development and Testing of a Buckling-Free Low-Prestressed Self-Centering Brace
 
 - Supervisor: Prof. Ying Zhou, Department of Disaster Mitigation for Structures, College of Civil Engineering, Tongji University
-- Designed and evaluated a Lean Low-Prestressed Self-Centering Brace (LLPSCB) that uses a unidirectional ratchet mechanism and a low-prestressed disc spring assembly to reduce prestress demand and avoid compression-induced buckling. Fabricated a full-scale 350 kN, 5.06 m prototype and tested it under static, dynamic, and fatigue loading protocols up to a 4% story drift ratio. Built and validated an OpenSees model against experimental results, showing stable flag-shaped hysteresis, reliable self-centering, and an initial prestress of 10 kN, approximately 2.8% of brace yield strength.
+- Designed and evaluated a Buckling-Free Low-Prestressed Self-Centering Brace (BF-LPSC Brace) that uses a unidirectional ratchet mechanism and a low-prestressed disc spring assembly to reduce prestress demand and avoid compression-induced buckling. Fabricated a full-scale 350 kN, 5.06 m prototype and tested it under static, dynamic, and fatigue loading protocols up to a 4% story drift ratio. Built and validated an OpenSees model against experimental results, showing stable flag-shaped hysteresis, reliable self-centering, and an initial prestress of 10 kN, approximately 2.8% of brace yield strength.
 
 ### Unity-Based Digital Twin Visualization Tool for Seismic Response of Building Clusters
 
