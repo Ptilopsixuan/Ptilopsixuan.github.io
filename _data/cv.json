@@ -1,152 +1,170 @@
 {
   "basics": {
     "name": "Zongxuan Liu",
+    "label": "M.Eng. Student in Civil Engineering",
     "email": "2430748@tongji.edu.cn",
-    "phone": "",
-    "website": "https://ptilopsixuan.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "phone": "+86 133 8180 9359",
+    "website": "https://ptilopsixuan.github.io/",
+    "summary": "Master's student in Civil Engineering at Tongji University, focusing on seismic resilience, structural disaster mitigation, self-centering structural systems, and digital tools for interpreting structural performance.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Shanghai, CN",
-      "countryCode": "US",
+      "city": "Shanghai",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Ptilopsixuan",
+        "url": "https://github.com/Ptilopsixuan"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Tongji University",
+      "area": "M.Eng. in Civil Engineering, Department of Disaster Mitigation for Structures (DDMS)",
+      "studyType": "Master of Engineering",
+      "startDate": "09/2024",
+      "endDate": "07/2027 (expected)",
+      "gpa": "4.69/5.00",
+      "courses": [
+        "Structural Dynamics",
+        "Finite Element Method",
+        "Numerical Analysis",
+        "Intelligent Disaster Prevention and Resilient Design",
+        "Advanced Concrete Structure Theory"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Tongji University",
+      "area": "B.Eng. in Civil Engineering",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "09/2020",
+      "endDate": "07/2024",
+      "gpa": "4.63/5.00; Class Rank: Top 5%",
+      "courses": [
+        "Structural Mechanics",
+        "Seismic Design of Building Structures",
+        "Reinforced Concrete Structures",
+        "Steel Structures",
+        "Information Technology in Civil Engineering"
+      ]
     }
   ],
-  "skills": [],
+  "research": [
+    {
+      "name": "Development and Testing of a Buckling-Free Low-Prestressed Self-Centering Brace",
+      "date": "",
+      "supervisor": "Prof. Ying Zhou, DDMS, College of Civil Engineering, Tongji University",
+      "summary": "Designed and tested a Buckling-Free Low-Prestressed Self-Centering Brace (BF-LPSC Brace) to reduce prestress demand and avoid compression-induced buckling. Supported full-scale prototype fabrication and experimental testing under static, dynamic, and fatigue loading protocols. Calibrated an OpenSees model with experimental data, confirming stable flag-shaped hysteresis and reliable self-centering behavior.",
+      "highlights": []
+    },
+    {
+      "name": "Unity-Based Digital Twin Visualization Tool for Seismic Response of Building Clusters",
+      "date": "",
+      "supervisor": "Prof. Ying Zhou, DDMS, College of Civil Engineering, Tongji University",
+      "summary": "Built an interactive Unity-based visualization tool for structural and seismic response data at the building-cluster scale, integrating numerical model outputs and earthquake response records to support clearer interpretation of structural performance during scenario earthquakes.",
+      "highlights": []
+    },
+    {
+      "name": "Field Data Collection Support for Facade Degradation and Maintenance Monitoring",
+      "date": "",
+      "supervisor": "Prof. Wensheng Lu, DDMS, College of Civil Engineering, Tongji University",
+      "summary": "Collected and coded campus facade-condition observations, including discoloration, cracking, detachment, and post-maintenance states. Organized field records to support subsequent monitoring of facade deterioration and evaluation of repair performance.",
+      "highlights": []
+    },
+    {
+      "name": "Quasi-Static Test on Carbon-Fiber-Reinforced Concrete Frame",
+      "date": "",
+      "supervisor": "",
+      "summary": "Participated in on-site quasi-static testing of a carbon-fiber-reinforced concrete frame. Assisted with test setup and loading process observation, recorded crack development and damage progression, and organized experimental observations for subsequent structural performance analysis.",
+      "highlights": []
+    }
+  ],
+  "projects": [
+    {
+      "name": "Huadian Kashgar CHP Plant Seismic Resilience Enhancement",
+      "date": "01/2024 - 07/2026",
+      "summary": "Supported seismic resilience enhancement for a lifeline-infrastructure combined heat and power (CHP) project. Assessed the seismic performance of the main turbine hall, identified resilience gaps in the existing structural scheme, and proposed a retrofit solution using self-centering braces. Implemented a customized brace constitutive model in commercial finite element software, and participated in engineering and productization design to support practical deployment.",
+      "highlights": []
+    },
+    {
+      "name": "Xiong'an New Area Building-Cluster Seismic Resilience Evaluation",
+      "date": "",
+      "summary": "Contributed to a building-cluster seismic resilience evaluation workflow for Xiong'an New Area, covering building model conversion, numerical analysis, data post-processing, and resilience assessment.",
+      "highlights": []
+    },
+    {
+      "name": "Building Safety Inspection for Weifang Elderly Care Home, Pudong New Area",
+      "date": "",
+      "summary": "Conducted on-site building safety inspection by measuring overall building dimensions and comparing them with design drawings. Performed settlement observation and inclination measurement for the building, and tested the strength of beams, columns, and masonry components.",
+      "highlights": []
+    }
+  ],
+  "work": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "keywords": [
+        "Mandarin Chinese (native)",
+        "English (CET-6; able to communicate in academic settings)"
+      ]
+    },
+    {
+      "name": "Programming & Modeling",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C#",
+        "MATLAB",
+        "Tcl/OpenSees",
+        "finite element model development",
+        "data post-processing"
+      ]
+    },
+    {
+      "name": "Engineering Software",
+      "level": "",
+      "keywords": [
+        "AutoCAD",
+        "Abaqus",
+        "SolidWorks",
+        "Revit"
+      ]
+    },
+    {
+      "name": "Technical Areas",
+      "level": "",
+      "keywords": [
+        "Seismic performance and resilience assessment",
+        "self-centering brace retrofit design",
+        "structural response visualization"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "Buckling-Free Low-Prestressed Self-Centering Brace: Mechanism, Experiments, and Simulation",
+      "publisher": "Journal of Structural Engineering",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Liu Z, Xiao Y, Zhou Y. Under review."
+    }
+  ],
+  "honors": [
+    {
+      "name": "First-Class Scholarship",
+      "awarder": "Tongji University",
+      "date": ""
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
 }
